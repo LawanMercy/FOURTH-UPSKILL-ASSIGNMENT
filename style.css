@@ -4,3 +4,56 @@ element.style {
     text-align: center;
     margin: 30px;
 }
+
+element.style {
+}
+.container {
+    border-radius: 5px;
+    background: rgba(87, 97, 155, 0.6);
+    width: 400px;
+    height: auto;
+    box-shadow: 0 10px 35px 2px rgb(171, 191, 246);
+    padding: 10px;
+    color: white;
+    margin-bottom: 30px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: auto;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+element.style {
+}
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: auto;
+}
+user agent stylesheet
+form {
+    display: block;
+    margin-top: 0em;
+    unicode-bidi: isolate;
+}
+.container {
+    border-radius: 5px;
+    background: rgba(113, 155, 214, 0.6);
+    width: 400px;
+    height: auto;
+    box-shadow: 0 10px 35px 2px rgb(180, 194, 225);
+    padding: 10px;
+    color: white;
+    margin-bottom: 30px;
+}
