@@ -1,7 +1,6 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
     margin: 0;
     padding: 0;
     background-image: url(images/Background\ 5.jpg);
@@ -17,6 +16,9 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding-left: 10%;
     padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: auto;
   }
   
   .header {
