@@ -1,6 +1,8 @@
 
-body {
-    font-family: Arial, sans-serif;
+  *{
+    font-family: Arial, sans-serif; 
+  }
+  body {
     margin: 0;
     padding: 0;
     background-image: url(images/Background\ 5.jpg);
@@ -21,7 +23,15 @@ body {
     height: 20%;
     border: solid;
     border-color: #e8f39a;
+  }
   
+  button{
+    width: 105%;
+    padding: 10px;
+    border: none;
+    font-size: 1rem;
+    background-color: #2187f5;
+    border-radius: 5px;
   }
   
   .header {
